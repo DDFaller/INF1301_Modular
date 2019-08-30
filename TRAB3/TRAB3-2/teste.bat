@@ -1,0 +1,1 @@
+TRAB3-2 /sTestePecaf.script  > saidaPecaFinalizada.log

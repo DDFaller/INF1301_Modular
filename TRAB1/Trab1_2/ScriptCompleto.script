@@ -1,0 +1,124 @@
+// Script:    ScriptCompleto.script
+// Autor:     Miguel Sanseverino, Jessica Pereira, Daniel Faller
+// Data:      29/03/2019
+// Propósito: Testa a construção e a costura de uma árvore usando parâmetros literais
+//            Não verifica se as operações modificaram corretamente as referências
+//            Este e um script completo que testa todas as condicoes de retorno de
+//            cada funcao, exceto as de falta de memoria e erro de estrutura.
+//	      Esse script gera 1 erro proposital na linha 110 para testar o log de saída.
+//
+
+== Verificar Costurar para Árvore não existe
+=costurar   4
+
+== Verificar Ir Direita para Árvore não existe
+=irdir      4
+
+== Verificar Ir Esquerda para Árvore não existe
+=iresq	    4
+
+== Verificar Ir Pai para Árvore não existe
+=irpai      4
+
+== Verificar Exibir Costura para Árvore não existe
+=exibir     4
+
+== Verificar comando recuperar
+=irdir      0
+=recuperar 
+
+== Verificar ObterValorCorr Árvore não existe
+=obter     '!'  4
+
+== Verificar  Adicionar parametro na lista Árvore não existe
+=addelem 'a' '1' 4
+
+
+== Criar árvore
+=criar 0
+
+== Verificar Exibir Costura Árvore para Ávore vazia
+=exibir    5
+
+== Verificar  Adicionar parametro na lista para arvore vazia
+=addelem 'a' '1'   5 
+
+== Verificar Costurar Arvore para arvore vazia
+=costurar  5
+
+== Verificar Ir No Esquerda para árvore vazia
+=iresq     5
+
+== Verificar Ir No Direita para árvore vazia
+=irdir     5
+
+== Verificar Ir Pai para árvore vazia
+=irpai     5
+
+== Verificar ObterValorCorr para árvore vazia
+=obter    '!'  5
+
+== Inserir raiz à direita
+=insesq   'y' 'y'  0
+
+== Verificar Ir Pai para No é Raiz
+=irpai     6
+
+== Verificar ObterValorCorr
+=obter	  'y'  0
+
+== Inserir à esquerda
+=insesq   'a' 'a'  0
+
+== Veriricar Ir para o no pai
+=irpai     0
+
+== Verificar Inserir à Esquerda para No não é Folha
+=insesq   'b' 'b' 3
+
+== Inserir à direita
+=insdir   'u' 'u' 0
+
+== Ir para o no pai
+=irpai     0
+
+== Verificar Inserir à Direita para No não é Folha
+=insdir   'p' 'p' 3
+
+== Verificar Ir para direita
+=irdir     0
+
+== Verificar Ir Direita para Não Possui Filho
+=irdir     7
+
+== Ir para o no pai
+=irpai     0
+
+== Verificar Ir para esquerda
+=iresq     0
+
+== Obter Valor
+=obter    'a'  0
+
+== Verificar Ir Esquerda para Não Possui Filho
+=iresq     7
+
+== Verificar Costurar Árvore
+=costurar  0
+
+== Verificar Costurar Árvore (erro esperado)
+=iresq     5
+
+== Verificar  Adicionar parametro na lista
+=addelem 'a' '1' 0
+
+== Verificar  Adicionar parametro na lista em um no que não é folhas
+=addelem 'b' '1' 3
+
+== Verificar Exibir Costura
+=exibir 0
+
+== Destruir a árvore
+=destruir   
+
+// fim

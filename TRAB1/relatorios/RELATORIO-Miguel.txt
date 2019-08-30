@@ -1,0 +1,14 @@
+data		hora		tipo			descrição
+
+03/14		2h		estudar			instalação, compilação e estudo do arcabouço
+03/15		1h		testar			testar scripts superficiais
+03/17		30 min		projetar		projetar função de costura da árvore
+03/20		1h		estudar			implementação de scripts, entender testarv.c
+03/24		1h 30 min	testar			testar implementação de scripts de teste
+03/26		1h		estudar			entender funcionamento geral do script e do log de saída
+03/28		2h		codificar		codificar script completo
+03/31		15 min		codificar		escrever LEIA-ME
+03/31		1h		especificar funções	implementar função costura no script
+03/31		30 min		especificar funções	modificar função costura
+04/02		1h		revisar código		revisão do código para envio
+04/02		1h min		codificar		atualizar script para versão final

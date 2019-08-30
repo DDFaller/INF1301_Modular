@@ -1,0 +1,12 @@
+data		hora		tipo			descrição
+
+04/09		30 min		projetar requisitos	Começar especificação de requisitos
+04/10		1h 		codificar módulo	Iniciar desenvolvimento módulo dado
+04/11		1h		estudar			Estudar regras gamão
+04/15		30 min		codificar		Finalizar módulo dado
+04/20		1h 30		projetar		Iniciar construção modelo estrutural
+05/5		1h		estudar			estudar modelo estrutural do trabalho
+05/6		30 min		projetar modelo		continuar construção modelo estrutural
+05/12		2h		projetar modelo		finalizar construção modelo estrutural
+05/13		1h		projetar modelo		consertar erros do modelo e finalizar
+05/13		30 min		projetar exemplo	projetar exemplo da estrutura

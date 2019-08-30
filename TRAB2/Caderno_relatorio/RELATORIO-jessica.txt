@@ -1,0 +1,20 @@
+data	hr 		tipo			descrição
+
+10/04	1h		estudar			entender as regras do jogo
+15/04	1h e 30 mim	codificar		começar a implementar o modulo dado pontos
+15/04	1h e 30 mim	especificar as funções	documentação do modulo dado pontos
+20/04	30 mim		codificar		criar script de teste do dado pontos 
+20/04	1h 		testar			testar o modulo dado pontos 
+24/04	1h e 30 mim	codificar		implementação do modulo peça
+24/04	1h 		especificar as funções  documentação do modulo peça
+28/04	2h		codificar		criar script de teste de peça
+28/04	1h		testar			testar o modulo peca
+02/05   1h		Revisar código		Revisão do modulo tabuleiro
+02/05	30 mim		Revisar código		Revisão do modulo peça	
+04/05	30mim		codificar		codificar novas funçoes do modulo peça		
+05/05	1h		Testar			Mudar o script de teste para testar novas funçoes	
+05/05	30 mim		Especificar as funções	Documentação do modulo dado
+11/05	1h		Revisar código 		Revisão codigos e documentação
+12/05	2h e 30 mim	Revisar código		Revisão de todo o codigo e modulos de todo o trabalho
+12/05	30 mim		codificar		Criar projetos separados sem dll, para cada modulo	
+13/05	1hr		revisar código		Preparação para a entrega 

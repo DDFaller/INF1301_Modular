@@ -1,0 +1,1 @@
+Trab2_3 /sTesteDadoPontos.script  > saidaDadoPontos.log

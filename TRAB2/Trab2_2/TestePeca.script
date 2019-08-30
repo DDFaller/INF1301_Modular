@@ -1,0 +1,47 @@
+// Script:    TestePecas.script
+// Autor:     Jéssica Pereira Cesario
+// Data:      28/04/2019
+// Propósito: Testar módulo Peca 
+//            Testa a criação de uma peça, a destruição e obter a cor de uma peça em 
+//			  determinado intice.
+//            Este script testa todas as condições de retorno de todas as funções
+//            do módulo.
+//
+
+
+==Criar peca
+=criar	'b' 0
+=criar	'p' 0
+
+==Criar peca para testar retorno quando nao é peca
+=criar	'c' 3
+
+==Obter a cor da peca no indice x
+=obter	 'b' 0 0
+
+==Obter a cor da peca no indice x que nao existe
+=obter	 ' ' 5 1
+
+==Exibir a peca do indice x
+=exibir	 1 0
+
+==Mudar o estado de uma peca
+=mudar 1 0
+
+==Destruir a peca no indice x 
+=destruir 1 0
+
+==Destruir a peca no indice x que nao existe
+=destruir 1 1
+
+==Mudar o estado de uma peca que nao existe
+=mudar	 1 1
+
+==Exibir a peca do indice x que nao existe
+=exibir	 1 1
+
+
+
+
+
+// fim

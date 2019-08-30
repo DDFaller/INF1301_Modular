@@ -1,0 +1,56 @@
+// Script:    TestePecaC.script
+// Autor:     Jéssica Pereira Cesario
+// Data:      10/06/2019
+// Propósito: Testar módulo Peca Capturada 
+//            Testa a criação, a destruição, remoção, inserção e quantidade de um peça capturada em
+//			  determinado indice.
+//            Este script testa todas as condições de retorno de todas as funções
+//            do módulo.
+//
+
+
+==Criar peca capturada
+=criar  0
+
+==Adicionar peca a lista de pecas capturadas
+=adicionar 0
+=adicionar 0
+=adicionar 0
+=adicionar 0
+=adicionar 0
+=adicionar 0
+=adicionar 0
+=adicionar 0
+=adicionar 0
+=adicionar 0
+=adicionar 0
+=adicionar 0
+=adicionar 0
+=adicionar 0
+=adicionar 0
+
+==Adicionar peca a lista de peca na lista para tstar limite de pecas
+=adicionar 4
+
+==Contar quantidade de pecas na lista de pecas capturadas
+=contar 'b' 15 0
+
+==Remover quando não tem peca capturada na lista
+=remover 'b' 0
+
+==Remover quando não tem peca capturada na lista
+=remover 'p' 1
+
+==Destruir peca capturada
+=destruir 0
+
+==Destruir peca capturada que nao existe
+=destruir 1
+
+==Adicionar peca a lista de peca capturada que nao existe
+=adicionar 1
+
+==Contar quantidade de pecas na lista de pecas capturadas que nao existe
+=contar 'b' 0 1
+
+// fim

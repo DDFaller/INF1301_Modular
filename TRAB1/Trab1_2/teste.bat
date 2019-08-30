@@ -1,0 +1,1 @@
+Trab1_2 /sScriptCompleto.script  > saida.log

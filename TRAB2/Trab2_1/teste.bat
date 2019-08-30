@@ -1,0 +1,1 @@
+Trab1_1 /sTesteTabuleiro.script  > saidaTabuleiro.log

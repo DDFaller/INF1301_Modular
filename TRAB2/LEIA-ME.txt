@@ -1,0 +1,10 @@
+﻿Instrucoes para Executar o Trabalho 2:
+
+1. Extraia o arquivo .zip utilizando um descompactador como winrar, 7zip.
+2. Dentro da pasta extraida, vá na pasta Trab2 
+3. Para executar o modulo tabuleiro entra na pasta  Trab2_1 e execute Teste.bat
+4. Para executar o modulo peça entra na pasta 	    Trab2_2 e execute Teste.bat
+5. Para executar o modulo dadoPontos entra na pasta Trab2_3 e execute Teste.bat
+6. Para executar o modulo dado entra na pasta 	    Trab2_4 e execute Teste.bat
+7. Para executar o modulo lista entra na pasta 	    Trab2_5 e execute Teste.bat
+8. Dentro de cada pasta há um pasta que se chama CodigoFonte onde estão os arquivos necessarios para a implementação do módulo.

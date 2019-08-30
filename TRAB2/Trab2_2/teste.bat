@@ -1,0 +1,1 @@
+Trab2_2 /sTestePeca.script  > saidaPeca.log

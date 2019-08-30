@@ -1,0 +1,36 @@
+// Script:    TesteDado.script
+// Autor:     Daniel Falelr
+// Data:      28/04/2019
+// Propósito: Testar módulo Tabuleiro
+//		Testa se o módulo tabuleiro consegue criar tabuleiro,
+//		mover uma peça e exibir o tabuleiro.
+//
+//
+
+
+==Mover Peça com tabuleiro não criado
+=mover	'p' 0 1 2
+
+==Criar Tabueleiro Teste FaltouMemória
+=criar 	6
+=recuperar
+
+==Reseta Tabuleiro Cond OK
+=criar	0
+
+==MoverPeça com posição fora dos limites( Param: origem)
+=mover	'p' 24 1 5
+
+==MoverPeça com posição fora dos limites( Param: destino)
+=mover	'p' 0 24 5
+
+==MoverPeça para onde existem duas peças ou mais do adversário
+=mover	'b' 23 0 4
+== MoverPeça para posição valida
+=mover	'p' 0  1 0
+
+==MoverPeça de uma origem onde não há peça
+=mover	'p' 1 2  4
+
+
+// fim

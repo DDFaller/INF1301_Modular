@@ -1,0 +1,1 @@
+Trab2_4 /sTesteDado.script  > saidaDado.log

@@ -1,0 +1,1 @@
+TRAB3-3 /sTestePecaC.script  > saidaPecaCapturada.log

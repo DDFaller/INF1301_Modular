@@ -1,0 +1,1 @@
+ExemploSimples /sTesteArvore.script > saida.txt

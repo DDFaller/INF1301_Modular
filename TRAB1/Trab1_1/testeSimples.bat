@@ -1,0 +1,1 @@
+Trab1_1 /sTesteArvore.script  > saidaComplexa.log

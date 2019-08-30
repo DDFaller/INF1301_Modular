@@ -1,0 +1,49 @@
+// Script:    TesteDadoPontos.script
+// Autor:     Jéssica Pereira Cesario
+// Data:      20/04/2019
+// Propósito: Testar módulo DadoPontos 
+//            Testa a criação de dadoPontos, a destrição, a obtenção do valor de uma 
+//			  partida e verifica se um jogador pode dobrar os pontos da partida.
+//            Verifica se as operações modificaram corretamente as referências
+//            Este script testa todas as condições de retorno de todas as funções
+//            do módulo.
+//
+
+
+==dobrar pontos para dado que nao exite
+=dobrar 'b' 1
+
+==criar dado pontos
+=criar	0
+
+==dobrar pontos jogador 1
+=dobrar 'p' 0
+
+==dobrar pontos para jogador 1 (nao pode dobrar nessa rodada)
+=dobrar 'p' 4
+
+==dobrar pontos jogador 2
+=dobrar 'b' 0
+
+=dobrar 'p' 0
+=dobrar 'b' 0
+=dobrar 'p' 0
+=dobrar 'b' 0
+
+==Teste da condicao de retorno para pontuacao maxima
+=dobrar 'p' 3
+
+==obter valor atual da partida 
+=obter 64 0
+
+==Destruir dado pontos
+=destruir 0
+
+==Destruir dado pontos para dado que nao existe
+=destruir 1
+
+==obter valor para dado pontos que nao exite 
+=obter 0 1
+
+
+// fim

@@ -1,0 +1,8 @@
+Objetivo do Trablho:
+
+Teste do módulo Árvore, após as alterações exigidas pelo professor.
+
+Instrucoes para Executar o Trab1:
+
+1. Extraia o arquivo .zip utilizando um descompactador como winrar, 7zip.
+2. Dentro da pasta extraida, vá na pasta Trab1_2 e execute o teste.bat

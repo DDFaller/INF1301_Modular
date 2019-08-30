@@ -1,0 +1,19 @@
+data	hr 		tipo			descrição
+
+15/04	2h		estudar			Pensando na implementação dos módulos
+16/04	2h	  	estudar			Desenvolvendo funções para implementação do tabuleiro
+18/04	2h	  codificar módulo		Ínicio da implementação do tabuleiro
+20/04	1h	       estudar  		Testes para entender a implementação do reset do tabuleiro
+20/04	1h 	revisar código do módulo        Revisando as funçoes de mover e exibir
+23/04	2h 	   codificar módulo		Adicionando funcionalidade de reset
+24/04	1h	   codificar módulo             Preparando módulo para testes com script 
+26/04	2h	   codificar módulo		Finalizando as alterações necessárias para teste com arcabouço
+27/04  30min	 ridigir script de teste	Escrevendo script de teste básico
+28/04	4h	 revisar código do módulo	Problemas com o reset e merge com peça, lista.c alterada
+30/04	2h 	 revisar projetos		Melhorando documentação		
+02/05	1h	 redigir script de teste	Necessário um novo script de teste para módulo LISTA
+05/05  30min	 especificar os módulos		Esboçando arquitetura do program
+06/05	2h	 revisar script de teste	Linha "fantasma" na execcução do arcabouço, melhorando arquitetura	
+08/05	1h	 Refazendo arquitetura		Relação cliente-servidor foi esboçada incorretamente na arquitetura, refazendo
+11/05	3h	 revisar script de teste	Problemas com a linha "fantasma", pequenas alterações na funcionalidade de reset		
+		

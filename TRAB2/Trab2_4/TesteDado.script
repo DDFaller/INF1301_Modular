@@ -1,0 +1,17 @@
+// Script:    TesteDado.script
+// Autor:     Miguel Sanseverino
+// Data:      20/04/2019
+// Propósito: Testar módulo Dado 
+//            Testa a rolagem de um dado usando parâmetros literais.
+//            Verifica se as operações modificaram corretamente as referências
+//            Este script testa todas as condições de retorno de todas as funções
+//            do módulo.
+//
+
+==Rolar Dados
+=rolar	0
+
+==Testar comando Recuperar
+=rolar	1
+=recuperar
+// fim

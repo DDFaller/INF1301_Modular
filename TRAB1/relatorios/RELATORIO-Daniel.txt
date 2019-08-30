@@ -1,0 +1,12 @@
+Data	Horas	Tipo				Descrição
+
+16/03   1h	testar				Instalção do arcabouço
+18/03   1h      Estudar				Entendo o TESTARV.C
+20/03 	1h	Corrigir			Corrigindo instalação do arcabouço
+22/03   1h e 30	Estudar				Estudando o ARVORE.C
+27/03   2h	Estudar				Estudo do scripts, planejamento das funções e entendendo como tirar dependência de dll			
+28/03   1h      Codificar			Criação de funcões auxiliares a de ordenação
+29/03   2h	Codificar			Criando função de ordenação principal
+30/03   1h e 30 Codificar  		 	Rescrevendo TESTARV.C para ler no script mais um parâmetro durante a inserção dos nós
+31/03   4h      Corrigir                        Correção da função de ordenação e correções no TESTARV.C
+01/04	3h      Revisar/Codificar código	Revisão das funções Lista.C e sua implementação junto com a árvore.Seguida das alterações no TESTARV.C

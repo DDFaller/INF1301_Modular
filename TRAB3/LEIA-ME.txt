@@ -1,0 +1,8 @@
+﻿Instrucoes para Executar o Trabalho 3:
+
+1. Extraia o arquivo .zip utilizando um descompactador como winrar, 7zip.
+2. Dentro da pasta extraida, vá na pasta Trab3 
+3. Para executar o jogo  entra na pasta  TRAB3-1 e execute TRAB3-1.exe
+4. Para executar o modulo peça finalizada entra na pasta TRAB3-2 e execute Teste.bat
+5. Para executar o modulo peça capturada  entra na pasta TRAB3-3 e execute Teste.bat
+6. Dentro de cada pasta há um pasta que se chama CodigoFonte onde estão os arquivos necessarios para a implementação do módulo/jogo.
